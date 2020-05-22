@@ -1,2 +1,2 @@
-# Sololearn-Certificates
-My earned Sololearn Certificates
+# SoloLearn-Certificates
+**My earned SoloLearn Certificates**
